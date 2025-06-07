@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Heet D. Shah, a passionate MERN stack developer and student at Parul University. I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning complex problems into user-friendly solutions and continuously strive to learn new technologies and best practices in web development. My goal is to build scalable, efficient, and responsive applications that create real-world impact.
+Hi, I’m Heet D. Shah — a MERN stack enthusiast and builder of bold web solutions. As a student at Parul University, I combine academic knowledge with practical experience to develop sleek, high-performance full-stack apps. I’m passionate about innovation, continuous learning, and creating tech that truly makes a difference.
 
 
 ## 🌐 Socials:
