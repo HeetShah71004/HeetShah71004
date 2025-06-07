@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Rushabh H. Mistry, a passionate MERN stack developer and student at Parul University. I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning complex problems into user-friendly solutions and continuously strive to learn new technologies and best practices in web development. My goal is to build scalable, efficient, and responsive applications that create real-world impact.
+I’m Heet D. Shah, a passionate MERN stack developer and student at Parul University. I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I enjoy turning complex problems into user-friendly solutions and continuously strive to learn new technologies and best practices in web development. My goal is to build scalable, efficient, and responsive applications that create real-world impact.
 
 
 ## 🌐 Socials:
