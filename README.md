@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Heet D. Shah — a MERN stack enthusiast and builder of bold web solutions. As a student at Parul University, I combine academic knowledge with practical experience to develop sleek, high-performance full-stack apps. I’m passionate about innovation, continuous learning, and creating tech that truly makes a difference.
+Hi, I'm Heet D. Shah. As a MERN stack developer and enthusiast, I build robust, high-performance web applications. I'm passionate about creating elegant, full-stack solutions and am committed to continuous learning and innovation. Let's connect and build something impactful!
 
 
 ## 🌐 Socials: 
