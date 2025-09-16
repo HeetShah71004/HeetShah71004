@@ -1,5 +1,9 @@
 # 💫 About Me:
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Heet+D.+Shah;MERN+Stack+Developer;Building+Robust+Web+Apps;Always+Learning+%26+Innovating!" alt="Typing SVG" />
+</div>
+
 Hi, I'm Heet D. Shah. As a MERN stack developer and enthusiast, I build robust, high-performance web applications. I'm passionate about creating elegant, full-stack solutions and am committed to continuous learning and innovation. Let's connect and build something impactful!
 
 ## 🌐 Socials:
@@ -12,13 +16,35 @@ Hi, I'm Heet D. Shah. As a MERN stack developer and enthusiast, I build robust, 
 
 # 📊 GitHub Stats:
 
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=HeetShah71004&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HeetShah71004&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeetShah71004&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=HeetShah71004&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+### 💡 Random Developer Joke:
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect & Build Something Amazing Together!
+
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+
+</div>
 
 ---
 
